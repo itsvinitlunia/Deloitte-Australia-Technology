@@ -1,2 +1,0 @@
-# Ignore certificate or template HTML file
-*.html
