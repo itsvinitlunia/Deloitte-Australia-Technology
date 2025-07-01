@@ -1,56 +1,62 @@
-# 💼 Deloitte Australia Job Simulation – Platform Engineering & Coding
+# 💼 Deloitte Australia Virtual Job Simulation – Technology Consulting
 
-This repository contains my submission for the **Deloitte Australia Virtual Job Simulation** on the Forage platform. The program offers a hands-on experience in platform engineering and software development — designed to simulate real-world tasks performed at Deloitte.
+This repository contains my submission for the **Deloitte Australia Technology Job Simulation** hosted on [Forage](https://www.theforage.com/). It provides a practical, hands-on experience in platform engineering, data integration, and software proposal development.
 
-## 🚀 Program Overview
-
-The Deloitte Job Simulation is a **self-paced**, **risk-free** opportunity to explore what it's like to work at one of the world’s leading professional services firms. Through this experience, I practiced critical skills in coding, data integration, proposal writing, and software development.
-
-- **Estimated Duration**: 2–3 hours
-- **No assessments or grading**
-- **Focus Area**: Platform Engineering & Software Development
-- **Hosted On**: [Forage](https://www.theforage.com/)
+> 🕒 **Duration**: ~2–3 hours  
+> 🎯 **Skills**: Python, Data Modeling, Software Development Planning, Dashboard Proposal Writing
 
 ---
 
-## 📌 Tasks & Deliverables
+## 📁 Tasks Completed
 
-### ✅ Task 1: Coding – Data Model Integration
-- **Objective**: Create an algorithm to unify two different data models.
-- **Skills Gained**:
-  - Python scripting
-  - Data reconciliation and transformation
-  - Working with structured data formats (e.g., JSON, CSV, dictionaries)
+### ✅ Task 1: Coding – Unify 2 Data Models
 
-📁 [`/task-1-coding`](./task-1-coding)
+- **Objective**: Merge two different client data sources into a unified format.
+- **Skills**: Data parsing, Python, data structure mapping
+- 📂 [`Task1 (Unify 2 data models)`](./Task1%20(Unify%202%20data%20models)/)
 
----
+### ✅ Task 2: Development – Operational Dashboard Proposal
 
-### ✅ Task 2: Development – Dashboard Proposal
-- **Objective**: Prepare a software development proposal based on a client's project idea.
-- **Skills Gained**:
-  - Requirements analysis
-  - Software architecture planning
-  - Professional technical writing
-  - Dashboard feature planning
-
-📁 [`/task-2-development`](./task-2-development)
+- **Objective**: Write a software development proposal based on client needs.
+- **Skills**: Proposal writing, dashboard planning, stakeholder communication
+- 📂 [`Task2 (Operational Dashboard)`](./Task2%20(Operational%20Dashboard)/)
 
 ---
 
-## 💡 What I Learned
-- How platform engineers help clients unify and modernize their systems.
-- How to translate client requirements into a feasible, clear development plan.
-- The importance of soft skills like documentation and client communication in tech roles.
+## 🧠 Key Learnings
+
+- Real-world platform engineering problem-solving
+- Translating client requirements into actionable development plans
+- Communicating technical ideas in clear and concise documentation
 
 ---
 
-## 🧠 Why This Matters
-> “At Deloitte, we won’t give you a career path — we’ll help you shape your own.”
+## 🚫 Excluded Files
 
-This simulation reaffirmed my interest in solving real-world problems through code and gave me a better understanding of how engineering and consulting intersect in a professional services firm like Deloitte.
+> 🎓 My certificate and template documents were excluded from the repository using `.gitignore` to maintain privacy and keep the repo clean.
 
 ---
 
-## 📂 Repository Structure
+## 📌 Technologies Used
 
+- **Python**
+- **Markdown**
+- **Professional Writing**
+- **Git & GitHub**
+
+---
+
+## 📝 About the Simulation
+
+This Job Simulation is part of a virtual internship hosted by Deloitte Australia on Forage. It replicates actual tasks that interns or grads might be expected to complete in a tech-focused consulting role.
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/)
+- 💻 [My GitHub](https://github.com/itsvinitlunia)
+
+---
+
+> ⚠️ **Disclaimer**: This repository is a personal educational project and not affiliated with or endorsed by Deloitte.
