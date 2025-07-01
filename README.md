@@ -54,8 +54,9 @@ This Job Simulation is part of a virtual internship hosted by Deloitte Australia
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 💻 [My GitHub](https://github.com/itsvinitlunia)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vinitlunia)
+- 💻 [GitHub](https://github.com/itsvinitlunia)
+
 
 ---
 
